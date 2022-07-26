@@ -1,0 +1,38 @@
+Jogadores
+No jogo de basquete, cada equipe é formada por 5 jogadores.
+
+Além dos 5 jogadores em jogo, cada equipe pode ter no máximo até 7 jogadores no banco de reserva.
+
+Tempo da partida
+Cada partida é disputada em 4 quartos de 10 minutos cada. Intervalos de 2 minutos após o primeiro e terceiro quartos e de 15 minutos no final do segundo quarto (final da primeira metade de jogo).
+
+No caso de empate ao final da partida, são realizadas prorrogações de 5 minutos até que haja o desempate.
+
+Pontuação
+As cestas podem valer 3, 2 ou 1 ponto:
+
+3 pontos - fora da linha dos três pontos;
+2 pontos - na parte interna da linha de três pontos (incluindo a linha);
+1 ponto - lance livre (cobrança de penalidade) na área demarcada.
+Controle de bola
+O basquete é jogado com as mãos e, a partir do controle da bola, cada jogador pode passar, arremessar, quicar, rolar, tapear ou driblar.
+
+O drible consiste no controle da bola, quicando-a com uma das mãos de cada vez. O jogador pode dar apenas um passo por quique da bola. O drible acaba quando o jogador toca com ambas as mãos simultaneamente a bola.
+
+São infrações:
+
+se o jogador movimentar os dois pés, estando em posse da bola - andar;
+tocar a bola com as duas mãos e volta a quicá-la - dois dribles.
+Cada equipe, após o controle da bola, possui 24 segundos de posse de bola para arremessá-la à cesta adversária. Desses 24 segundos, apenas 8 segundos podem ser executados no campo de defesa.
+
+A equipe não pode regressar com a bola ao campo de defesa após ter cruzado a linha do meio da quadra.
+
+Faltas
+No basquete existem diferentes tipos de falta, todos eles devem ser considerados pela arbitragem. Os tipos de falta são:
+
+faltas pessoais: quando há um contato ilegal entre os atletas;
+faltas técnicas: são relativas ao comportamento do jogador, quando este atrapalha o desenvolvimento da partida, sem haver contato físico com o adversário;
+faltas antidesportivas: ocorrem quando o contato ocorre de forma alheia aos padrões do jogo;
+faltas desqualificantes: quando há algum ato de violência praticado por um atleta, ou no caso de briga entre dois ou mais atletas.
+Durante a partida, cada jogador possui um limite de 5 faltas pessoais. Após o cometimento da quinta falta, o jogador deve ser excluído da partida.
+
