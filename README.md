@@ -1,2 +1,4 @@
 # Desafio-primeiro-repositorio
-Desafio Dio (primeiro repositório)
+Refere-se a instruções básicas a respeito do Basquete 
+
+###Desafio Dio (primeiro repositório)
